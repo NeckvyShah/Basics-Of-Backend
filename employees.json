@@ -1,0 +1,69 @@
+{
+  "employees": {
+    "employee": [
+      {
+        "id": "1",
+        "firstName": "Neckvy",
+        "lastName": "Shah",
+        "eMail": "neckvy@gmail.com",
+        "phoneNumber": 8452103654,
+        "birthDate": "08/05/2001",
+        "department": "MEAN"
+      },
+      {
+        "id": "2",
+        "firstName": "Ayushi",
+        "lastName": "Bhatt",
+        "eMail": "ayushib1@gmail.com",
+        "phoneNumber": 9574230145,
+        "birthDate": "01/11/2002",
+        "department": "MERN"
+      },
+      {
+        "id": "3",
+        "firstName": "Preya",
+        "lastName": "Chopra",
+        "eMail": "preyachopra5@gmail.com",
+        "phoneNumber": 9702103654,
+        "birthDate": "05/01/2002",
+        "department": ".NET"
+      },
+      {
+        "id": "4",
+        "firstName": "Aesha",
+        "lastName": "Savaliya",
+        "eMail": "aeshasav@gmail.com",
+        "phoneNumber": 8445303654,
+        "birthDate": "20/02/2002",
+        "department": "PHP"
+      },
+      {
+        "id": "5",
+        "firstName": "Moksha",
+        "lastName": "Kothari",
+        "eMail": "moksha@gmail.com",
+        "phoneNumber": 9904152368,
+        "birthDate": "03/01/2002",
+        "department": "Python"
+      },
+      {
+        "id": "6",
+        "firstName": "Jinali",
+        "lastName": "Sanghavi",
+        "eMail": "jinalisanghvi@gmail.com",
+        "phoneNumber": 810752143,
+        "birthDate": "20/09/2000",
+        "department": "React"
+      },
+      {
+        "id": "7",
+        "firstName": "Riya",
+        "lastName": "Parikh",
+        "eMail": "riya@gmail.com",
+        "phoneNumber": 8452103654,
+        "birthDate": "16/08/1999",
+        "department": "Finance"
+      }
+    ]
+  }
+}
